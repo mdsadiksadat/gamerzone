@@ -4,7 +4,6 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
-/* this is navbar section */
 nav{
     display: flex;
     justify-content: space-between;
@@ -50,7 +49,6 @@ nav{
     margin-right: 150px;
     padding: 0px 20px;
 }
-/* this is banner section */
 .banner{
     display: flex;
     justify-content: center;
@@ -102,7 +100,6 @@ nav{
     border: none;
     padding: 12px 50px;
 }
-/* gamer section */
 .gamer-section{
     display: flex;
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
@@ -144,7 +141,6 @@ nav{
     font-size: 2rem;
     font-weight: 600;
 }
-/* video section */
 .video-title{
     text-align: center;
     color: #0B0223;
@@ -180,7 +176,6 @@ nav{
 .video-effect:hover{
     opacity: 1;
 }
- /* play section*/
  .play-div-one{
     display: flex;
     margin:50px 0px;
